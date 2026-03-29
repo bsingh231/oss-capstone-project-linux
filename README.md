@@ -6,7 +6,7 @@ Name: SINGH BHUMIJA LALITKUMAR
 
 Registration No: 24BCE11200
 
-Course: B.Tech CSE (AI & ML)
+Course: B.Tech CSE CORE
 
 Semester: WINTER SEM 25-26 
 
