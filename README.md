@@ -2,9 +2,9 @@ OSS Capstone Project
 
 👤 Student Details
 
-Name: bhumija singh 
+Name: SINGH BHUMIJA LALITKUMAR 
 
-Registration No: 24bBCE11200
+Registration No: 24BCE11200
 
 Course: B.Tech CSE (AI & ML)
 
